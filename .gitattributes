@@ -1,0 +1,8 @@
+# Default behavior   
+# Project-specific overrides
+# This file is used to override language statistics
+*.tsx linguist-detectable
+public/* linguist-vendored
+*.sh text eol=lf
+*.map linguist-generated
+# eof 8b6bf08b
